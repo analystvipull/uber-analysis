@@ -65,7 +65,9 @@ Supports strategic decisions for improving service quality and operational effic
 Key KPIs
 
 Total Bookings: 148.77K
+
 Completed Bookings: 93K
+
 Driver Cancelled Bookings: 27K
 Customer Cancelled Bookings: 10.5K
 No Driver Found Cases: 10.5K
