@@ -81,3 +81,8 @@ Tracks monthly booking trends and highlights demand fluctuations throughout the 
 
 Date Slicer :
 Allows users to dynamically filter all dashboard visuals by selected date ranges.
+
+
+### 6.	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/analystvipull/uber-analysis/blob/main/Demographics%20Dashboard.png)
