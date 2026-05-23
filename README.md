@@ -129,7 +129,6 @@ This helps identify the most profitable and frequently used ride categories.
 Show what the dashboard looks like.
 Example: ![Dashboard Preview](https://github.com/analystvipull/uber-analysis/blob/main/Vehicle%20type%20analysis%20Dashboard%20%20(1).png)
 
-
 #### 💰 Revenue Dashboard
 
 Revenue by Payment Method (Bar Chart)
