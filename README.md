@@ -95,20 +95,20 @@ Vehicle Performance Table
 
 Compares all vehicle categories based on:
 
-Total Booking Value
-Successful Booking Value
-Average Ride Distance
-Total Distance Travelled
+Total Booking Value,
+Successful Booking Value,
+Average Ride Distance,
+Total Distance Travelled.
 
 Vehicle categories analyzed include:
 
-Auto
-Bike
-eBike
-Go Mini
-Go Sedan
-Premier Sedan
-Uber XL
+Auto,
+Bike,
+eBike,
+Go Mini,
+Go Sedan,
+Premier Sedan,
+Uber XL.
 
 This helps identify the most profitable and frequently used ride categories.
 
