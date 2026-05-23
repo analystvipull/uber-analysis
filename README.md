@@ -70,8 +70,11 @@ Total Bookings: 148.77K
 Completed Bookings: 93K
 
 Driver Cancelled Bookings: 27K
+
 Customer Cancelled Bookings: 10.5K
+
 No Driver Found Cases: 10.5K
+
 Incomplete Rides: 9K
 
 Booking Status Breakdown (Pie Chart) :
@@ -95,23 +98,140 @@ Vehicle Performance Table
 
 Compares all vehicle categories based on:
 
-Total Booking Value,
-Successful Booking Value,
-Average Ride Distance,
+Total Booking Value
+
+Successful Booking Value
+
+Average Ride Distance
+
 Total Distance Travelled.
 
 Vehicle categories analyzed include:
 
-Auto,
-Bike,
-eBike,
-Go Mini,
-Go Sedan,
-Premier Sedan,
+Auto
+
+Bike
+
+eBike
+
+Go Mini
+
+Go Sedan
+
+Premier Sedan
+
 Uber XL.
+
 
 This helps identify the most profitable and frequently used ride categories.
 
 #### 	Screenshots / Demos
 Show what the dashboard looks like.
 Example: ![Dashboard Preview](https://github.com/analystvipull/uber-analysis/blob/main/Vehicle%20type%20analysis%20Dashboard%20%20(1).png)
+
+
+#### 💰 Revenue Dashboard
+
+Revenue by Payment Method (Bar Chart)
+
+Analyzes revenue contribution from payment channels:
+
+UPI
+
+Cash
+
+Uber Wallet
+
+Credit Card
+
+Debit Card
+
+Ride Distance Distribution (Monthly Analysis) : Shows monthly ride-distance patterns and overall travel demand.
+
+Top Customer Revenue Table: Identifies customers contributing the highest booking values, enabling customer segmentation and loyalty analysis.
+
+#### 	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![(https://github.com/analystvipull/uber-analysis/blob/main/Revenue%20Dashboard.png)
+
+
+#### ❌ Cancellation Dashboard
+
+Customer Cancellation Analysis (Pie Chart)
+
+Visualizes major customer-side cancellation reasons, such as:
+
+Wrong Address
+
+Change of Plans
+
+Driver Delays
+
+Driver Requested Cancellation
+
+AC Not Working
+
+Driver Cancellation Analysis (Pie Chart)
+
+Tracks driver-side cancellation reasons, including:
+
+Customer-related issues
+
+Personal reasons
+
+Vehicle-related issues
+
+Operational constraints
+
+Cancellation KPIs:
+
+Total Bookings: 148.77K
+
+Successful Bookings: 92.55K
+
+Cancelled Bookings: 37.43K
+
+Cancellation Rate: 25%
+
+These insights help improve operational reliability and reduce ride abandonment.
+
+#### 	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![(https://github.com/analystvipull/uber-analysis/blob/main/Cancellations%20Dashboard.png)
+
+
+
+#### ⭐ Ratings Dashboard
+
+Customer Ratings by Vehicle Type: Compares average customer ratings across all vehicle categories, highlighting service quality performance.
+
+Driver Ratings by Vehicle Type: Evaluates average driver ratings to identify consistency in driver experience and performance.
+
+The dashboard enables management to monitor satisfaction trends and maintain service standards across vehicle segments.
+
+#### 	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![(https://github.com/analystvipull/uber-analysis/blob/main/Rating%20Dashboard.png)
+
+
+
+#### • Business Impact & Insights
+🚀 Operational Efficiency
+
+Management can identify cancellation patterns and operational challenges to improve ride completion rates and driver allocation strategies.
+
+💰 Revenue Optimization
+
+Revenue analysis reveals the most profitable vehicle categories and preferred payment methods, supporting pricing and promotional decisions.
+
+🚗 Fleet Utilization
+
+Vehicle-wise booking and distance metrics help optimize fleet deployment based on customer demand.
+
+😊 Customer Experience Enhancement
+
+Customer and driver rating analysis provides actionable insights for improving service quality and user satisfaction.
+
+📊 Data-Driven Decision Making
+
+The dashboard consolidates operational, financial, and customer metrics into a single reporting solution, enabling faster and more informed business decisions.
