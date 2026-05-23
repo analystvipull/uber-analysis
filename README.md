@@ -196,7 +196,9 @@ These insights help improve operational reliability and reduce ride abandonment.
 
 #### 	Screenshots / Demos
 Show what the dashboard looks like.
-Example: ![(https://github.com/analystvipull/uber-analysis/blob/main/Cancellations%20Dashboard.png)
+Example: ![Dashboard Preview](https://github.com/analystvipull/uber-analysis/blob/main/Cancellations%20Dashboard.png)
+
+
 
 
 
@@ -208,9 +210,10 @@ Driver Ratings by Vehicle Type: Evaluates average driver ratings to identify con
 
 The dashboard enables management to monitor satisfaction trends and maintain service standards across vehicle segments.
 
+
 #### 	Screenshots / Demos
 Show what the dashboard looks like.
-Example: ![(https://github.com/analystvipull/uber-analysis/blob/main/Rating%20Dashboard.png)
+Example: ![Dashboard Preview](https://github.com/analystvipull/uber-analysis/blob/main/Rating%20Dashboard.png)
 
 
 
