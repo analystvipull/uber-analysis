@@ -84,6 +84,34 @@ Date Slicer :
 Allows users to dynamically filter all dashboard visuals by selected date ranges.
 
 
-### 6.	Screenshots / Demos
+#### 	Screenshots / Demos
 Show what the dashboard looks like.
 Example: ![Dashboard Preview](https://github.com/analystvipull/uber-analysis/blob/main/Demographics%20Dashboard.png)
+
+
+#### 🚗 Vehicle Type Analysis
+
+Vehicle Performance Table
+
+Compares all vehicle categories based on:
+
+Total Booking Value
+Successful Booking Value
+Average Ride Distance
+Total Distance Travelled
+
+Vehicle categories analyzed include:
+
+Auto
+Bike
+eBike
+Go Mini
+Go Sedan
+Premier Sedan
+Uber XL
+
+This helps identify the most profitable and frequently used ride categories.
+
+#### 	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/analystvipull/uber-analysis/blob/main/Vehicle%20type%20analysis%20Dashboard%20%20(1).png)
