@@ -151,7 +151,7 @@ Top Customer Revenue Table: Identifies customers contributing the highest bookin
 
 #### 	Screenshots / Demos
 Show what the dashboard looks like.
-Example: ![(https://github.com/analystvipull/uber-analysis/blob/main/Revenue%20Dashboard.png)
+Example: ![Dashboard Preview](https://github.com/analystvipull/uber-analysis/blob/main/Revenue%20Dashboard.png)
 
 
 #### ❌ Cancellation Dashboard
